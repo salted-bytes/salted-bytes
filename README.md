@@ -3,7 +3,7 @@
 ---
 
 ## About Me
-- ![Loading](https://i.gifer.com/ZZ5H.gif) Software Developer  
+- Software Developer  
 - Matcha Lova 🍵  
 
 ---
