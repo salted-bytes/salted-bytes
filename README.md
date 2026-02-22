@@ -3,7 +3,7 @@
 ---
 
 ## About Me
-- Software Developer <img src="https://i.gifer.com/ZZ5H.gif" width="20" style="vertical-align:middle">
+- Software Developer <img src="https://i.gifer.com/ZZ5H.gif" width="15" style="vertical-align:middle">
 - Matcha Lova 🍵  
 
 ---
