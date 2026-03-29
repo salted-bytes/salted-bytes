@@ -2,7 +2,7 @@
 
 • Software Dev <img src="https://i.gifer.com/ZZ5H.gif" width="15" style="vertical-align:middle"> 
 
-• Matcha Lova 🍵
+• Powered by Matcha 🍵
 
 ## Why "Salt"?
 In cybersecurity, **salt** strengthens passwords and protects sensitive data
